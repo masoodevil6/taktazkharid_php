@@ -1,0 +1,36 @@
+.title_stting_set_day{
+    width: 150px;
+}
+
+
+.value_stting_set_day{
+    margin-top: 5px;
+    width: 90px;
+    height: 40px;
+    padding-right: 20px;
+}
+
+
+.this_time{
+    background: #7fee7b;
+}
+
+
+#title_btn_stting_set_day{
+    transition: color 1s ease 0s;
+}
+#btn_stting_set_day:hover #title_btn_stting_set_day{
+    transition: color 1s ease 0s;
+    color: #ffffff;
+}
+
+
+#chartContainer{
+    height: 370px;
+    max-width: 725px;
+}
+
+
+#chartContainer div{
+    direction: ltr;
+}

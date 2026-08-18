@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "B-yekan";
+    src: url("font/B-Yekan.ttf") format("truetype"),
+    url("font/B-Yekan.eot?#") format('embedded-opentype');
+}
+
+.titleDown{
+    border: #c7c7c7 2px solid;
+    overflow: hidden;
+    cursor: pointer;
+
+}
+
+.titleList{
+    display: inline-block;
+    line-height: 150%;
+    font-family: B-yekan;
+}
+
+.arrowList{
+    margin-top: 1%;
+    transform: rotate(180deg);
+}

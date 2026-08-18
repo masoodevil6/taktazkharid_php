@@ -1,0 +1,41 @@
+.form_icon_back_page{
+    top: 50%;
+    left: 20px;
+    transform: translate(0 , -50%);
+    width: 37.5px;
+    height: 37.5px;
+}
+
+.icon_back_page{
+    width: 40px;
+    height: 40px;
+    background-size: 800px 800px;
+    background-position: -264px -344px;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%) rotate(-180deg);
+}
+
+.item_nav_news:last-child{
+    border-bottom: none;
+}
+
+
+
+.active_page_news{
+    background-color: #02b5de !important;
+}
+
+
+
+
+
+
+/*responsive_site*/
+@media (min-width: 970px) {
+    .title_item_nav_news{
+        float: right;
+        width: 50%;
+    }
+}

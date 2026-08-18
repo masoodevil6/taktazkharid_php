@@ -1,0 +1,19 @@
+.form_off_price{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: #8a8a8a solid 1px;
+    background: white;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.price_form_off_price{
+    display: block;
+    text-align: center;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 50px;
+    color: #9d0004;
+}

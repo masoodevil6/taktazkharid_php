@@ -1,0 +1,1 @@
+$("#bottom_form_news").find("img").attr("style" , "");

@@ -1,0 +1,19 @@
+
+@media (max-width: 969px) {
+
+    .main_two_par{
+        width: 95%;
+    }
+
+    #img_form_page_not_exist_info{
+        width: 80%;
+    }
+
+}
+
+
+@media (min-width: 970px) {
+    #btn_back_index{
+        width: 600px;
+    }
+}

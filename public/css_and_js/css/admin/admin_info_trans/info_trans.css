@@ -1,0 +1,46 @@
+
+.form_input_search_trans {
+    height: 50px;
+}
+
+
+
+.title_stting_set_day {
+    width: 150px;
+}
+
+
+.value_stting_set_day{
+    margin-top: 5px;
+    width: 90px;
+    height: 40px;
+    padding-right: 20px;
+}
+
+
+#title_btn_stting_set_day{
+    transition: color 1s ease 0s;
+}
+#btn_stting_set_day:hover #title_btn_stting_set_day{
+    transition: color 1s ease 0s;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 969px) {
+
+    .form_input_search_factor  , .form_input_search_trans {
+        display: flow-root;
+        float: none;
+        width: auto;
+    }
+
+}
+

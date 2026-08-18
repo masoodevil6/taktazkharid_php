@@ -1,0 +1,44 @@
+#all_form_change_price{
+    display: none;
+}
+
+
+#page_change_price{
+    z-index: 1000;
+    max-height: 100%;
+}
+
+
+#close_change_price{
+    width: 30px;
+    height: 30px;
+
+    background-position: -7px -7px;
+    background-size: 400px 400px;
+}
+
+
+
+#chartContainer {
+    height: 370px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#chartContainer div {
+    direction: ltr;
+}
+
+
+
+/*responsive_site*/
+@media (max-width: 699px) {
+    #page_change_price{
+        width: 100%;
+    }
+}
+@media (min-width: 700px) {
+    #page_change_price{
+        width: 700px;
+    }
+}

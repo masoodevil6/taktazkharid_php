@@ -1,0 +1,12 @@
+.li_ul_nav_cate_step_2:hover {
+    transition: border-top-color ease 1s 0s , border-bottom-color ease 1s 0s  , border-left-color ease 1s 0s  , border-right-color ease 1s 0s;
+    border: #8b2524 solid 3px;
+}
+
+
+@media (min-width: 450px) and (max-width: 1199px){
+
+    #nav_cate_step_2{
+        width: 400px;
+    }
+}

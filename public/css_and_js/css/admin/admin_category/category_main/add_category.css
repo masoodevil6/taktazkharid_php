@@ -1,0 +1,43 @@
+.all_form_add_item_panel{
+    display: none;
+}
+
+
+#form_add_item_panel{
+    z-index: 1000;
+    max-height: 100%;
+}
+
+
+.btn_form_add_item{
+    display: block;
+}
+
+
+
+
+/*responsive_site*/
+
+@media (max-width: 969px) {
+    #form_add_item_panel{
+        width: 80%;
+    }
+}
+
+@media (min-width: 970px) {
+
+    #form_add_item_panel{
+        width: 600px;
+    }
+
+
+    #form_btn_accept_delete_item{
+        float: right;
+        width: 50%;
+    }
+
+    #form_btn_cancel_delete_item{
+        float: right;
+        width: 50%;
+    }
+}

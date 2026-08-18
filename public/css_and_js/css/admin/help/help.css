@@ -1,0 +1,53 @@
+body{
+    min-width: 1200px;
+    overflow: auto;
+}
+
+
+.top_table_form_exist_panel{
+    height: 40px;
+}
+
+
+.position_user{
+    flex: 1;
+    border-left: #ffffff solid 2px;
+}
+
+
+.title_position_user{
+    flex: 1;
+    border-left: #ffffff solid 2px;
+}
+
+
+.title_position_user:last-child{
+    border-left: none;
+}
+
+
+.item_table_form_exist_panel{
+    height: 40px;
+}
+
+
+.item_position_user{
+    flex: 1;
+}
+
+
+.form_img_item_table_form_exist_panel{
+    flex: 1;
+    height: 40px;
+}
+.form_img_item_table_form_exist_panel:last-child{
+    border-left: none;
+}
+
+
+.selected_icon_panel{
+    width: 30px;
+    height: 30px;
+    top: 4px;
+    font-size: 24px;
+}

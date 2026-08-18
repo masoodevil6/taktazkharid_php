@@ -1,0 +1,36 @@
+
+.value_item_setting , .title_top_form_info  , .get_limit_price_off{
+    height: 50px;
+}
+
+.img_delete_code_off{
+    width: 32px;
+    height: 32px;
+    background-position: -407px -557px;
+    background-size: 600px 600px;
+}
+
+
+
+
+@media (max-width: 969px) {
+
+    .form_title_info_site , .title_top_form_info {
+        display: flow-root;
+        float: none;
+        width: auto;
+    }
+
+    .title_title_info_site , .inside_title_top_form_all_info{
+        border-left: none;
+    }
+
+}
+
+@media (min-width: 970px) {
+
+    .title_title_info_site  , .inside_title_top_form_all_info{
+        border-bottom: none;
+    }
+
+}

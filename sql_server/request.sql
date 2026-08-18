@@ -1,0 +1,1 @@
+select id,title,time from tbl_news  ORDER BY id DESC Limit 5

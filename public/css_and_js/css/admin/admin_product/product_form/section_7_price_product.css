@@ -1,0 +1,32 @@
+.list_price_product:last-child{
+    border-bottom: none;
+}
+
+
+.option_list_price_product{
+    height: 50px;
+}
+
+
+.inside_option_list_price_product{
+    height: 50px;
+}
+
+
+.icon_delete_option_list_price_product{
+    width: 32px;
+    height: 32px;
+
+    background-position: -407px -557px;
+    background-size: 600px 600px;
+}
+
+
+#chartContainer {
+    height: 370px;
+}
+
+
+#chartContainer div {
+    direction: ltr;
+}

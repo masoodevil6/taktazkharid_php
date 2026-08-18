@@ -1,0 +1,77 @@
+.input_value_item_setting{
+    height: 50px;
+}
+
+
+.textarea_value_item_setting{
+    height: 100px;
+}
+
+
+
+
+.form_progress{
+    height: 10px;
+}
+.progress{
+    width: 10%;
+    transition: width ease 1s 0s;
+}
+.title_empity_photo_main_product{
+    line-height: 100px;
+}
+
+
+
+
+
+.form_icon_progress{
+    height: 10px;
+}
+.icon_progress{
+    width: 10%;
+    transition: width ease 1s 0s;
+}
+.empity_photo_icon_product{
+    line-height: 100px;
+}
+
+
+
+.form_bg_site_progress{
+    height: 10px;
+}
+.bg_site_progress{
+    width: 10%;
+    transition: width ease 1s 0s;
+}
+.title_empity_photo_bg_site{
+    line-height: 100px;
+}
+
+
+
+
+
+
+@media (max-width: 969px) {
+
+    .form_title_info_site {
+        display: flow-root;
+        float: none;
+        width: auto;
+    }
+
+    .title_title_info_site {
+        border-left: none;
+    }
+
+}
+
+@media (min-width: 970px) {
+
+    .title_title_info_site{
+        border-bottom: none;
+    }
+
+}

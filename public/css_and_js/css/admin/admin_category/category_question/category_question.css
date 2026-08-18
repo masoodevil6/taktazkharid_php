@@ -1,0 +1,23 @@
+.form_option_item_answer_question{
+    height: 50px;
+}
+
+.img_delete_info{
+    width: 32px;
+    height: 32px;
+    background-position: -407px -557px;
+    background-size: 600px 600px;
+}
+.img_edit_info{
+    width: 32px;
+    height: 32px;
+    background-position: -317px -527px;
+    background-size: 600px 600px;
+}
+
+
+
+
+.form_percent_answer_user{
+    height: 10px;
+}

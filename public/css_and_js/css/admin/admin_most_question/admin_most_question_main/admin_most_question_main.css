@@ -1,0 +1,33 @@
+#icon_add_question{
+    width: 32px;
+    height: 32px;
+    background-position: -347px -557px;
+    background-size: 600px 600px;
+}
+
+
+.option_item_question{
+    height: 50px;
+}
+
+.a_icon_edit_question{
+    width: 32px;
+    height: 32px;
+    background-position: -317px -527px;
+    background-size: 600px 600px;
+}
+
+.a_icon_delete_question{
+    width: 32px;
+    height: 32px;
+    background-position: -407px -557px;
+    background-size: 600px 600px;
+}
+
+
+
+
+
+#title_empty_question{
+    line-height: 100px;
+}

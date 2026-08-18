@@ -1,0 +1,27 @@
+
+.form_text p{
+    text-align: justify;
+    line-height: 40px;
+    margin: 0;
+}
+
+
+
+
+@media (max-width: 479px){
+    .form_text img{
+        width: 250px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 749px){
+    .form_text img{
+        width: 300px;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 969px){
+    .form_text img{
+        width: 350px;
+    }
+}

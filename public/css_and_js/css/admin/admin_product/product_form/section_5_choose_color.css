@@ -1,0 +1,22 @@
+.form_go_to_img_add_color{
+    width: 32px;
+    height: 32px;
+
+    left: 45px;
+    top: 50%;
+    transform: translate(-50% , -50%);
+
+    background-position: -317px -527px;
+    background-size: 600px 600px;
+}
+
+
+.item_color_exist{
+    height: 50px;
+}
+
+
+.input_item_color_exist{
+    width: 30px;
+    height: 30px;
+}

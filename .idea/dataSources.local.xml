@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="digi_mvc@localhost" uuid="6091b895-85e3-4001-93c0-ab6c56ead154">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:digi_mvc</introspection-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+/* delete item form*/
+#all_form_delete_item{
+    display: none;
+}
+
+#form_delete_item{
+    z-index: 1000;
+    max-height: 100%;
+}
+
+
+
+
+
+/*responsive_site*/
+
+@media (max-width: 969px) {
+    #form_delete_item{
+        width: 80%;
+    }
+}
+
+@media (min-width: 970px) {
+
+    #form_delete_item{
+        width: 550px;
+    }
+
+
+    #form_btn_cancel_delete_item{
+        float: right;
+        width: 50%;
+    }
+
+    #form_btn_accept_delete_item{
+        float: right;
+        width: 50%;
+    }
+}

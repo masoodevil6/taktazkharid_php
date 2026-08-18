@@ -1,0 +1,101 @@
+.title_stting_set_day {
+    width: 150px;
+}
+
+
+
+.value_stting_set_day{
+    margin-top: 5px;
+    width: 90px;
+    height: 40px;
+    padding-right: 20px;
+}
+
+
+
+#title_btn_stting_set_day{
+    transition: color 1s ease 0s;
+}
+#btn_stting_set_day:hover #title_btn_stting_set_day{
+    transition: color 1s ease 0s;
+    color: #ffffff;
+}
+
+
+
+
+
+
+.title_value_comment{
+    line-height : 39px;
+    height: 39px;
+}
+
+.text_value_comment{
+    line-height : 39px;
+    height: 79px;
+}
+
+.mid_value_comment{
+    height: 59px;
+}
+
+.edit_comment{
+    top: 50%;
+    left: 25%;
+    transform: translate(-50% , -50%);
+
+    width: 32px;
+    height: 32px;
+
+    background-position: -87px -165px;
+    background-size: 400px 400px;
+}
+
+
+.delete_comment{
+    top: 50%;
+    left: 75%;
+    transform: translate(-50% , -50%);
+
+    width: 32px;
+    height: 32px;
+
+    background-position: -407px -557px;
+    background-size: 600px 600px;
+}
+
+
+
+
+
+
+@media (max-width: 969px) {
+
+    .title_top_comment  , .value_comment{
+        display: flow-root;
+        float: none;
+        width: auto;
+    }
+
+    .inside_title_top_comment  , .value_comment , .inside_value_comment  , .title_value_comment , .text_value_comment{
+        border-left: none;
+    }
+
+    .inside_title_top_comment , .inside_value_comment{
+        line-height: 40px;
+    }
+
+}
+
+@media (min-width: 970px) {
+
+    .inside_title_top_comment , .inside_value_comment , .text_value_comment   , .value_comment{
+        border-bottom: none;
+    }
+
+    .inside_value_comment{
+        line-height: 120px;
+    }
+
+}

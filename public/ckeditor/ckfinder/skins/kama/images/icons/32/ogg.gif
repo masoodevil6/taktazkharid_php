@@ -1,0 +1,136 @@
+e [64 ]
+>>
+<<
+/Domain[0 1 ] 
+/Range[0 1 0 1 0 1 ] 
+/FunctionType 0
+/Order 1 
+/DataSource <~^jo:tJ5O+4;8@]Z_15D!J5O.5;8IcZ_1,:tIo+"3:r7]Y_LGD!Io+"3:r7]Y_gbM#Io+%4:r@cY_gbJ"
+Io!t3:W.`Y`.(S$Io""4:W.`Y`.(S%Io"%5:W7fZ`IC\&Io"%5:W@l[`d^e(Io"(6:W@l[`dU_(IS\"5
+:WIo[a*ph)ISRq4:<.fYaF6n*ISRt5:<7lZaF6n*ISS"6:<@r[aaHq+I8.h3:!%fXb'd",I8.k4:!.lY
+~>
+/BitsPerSample 8
+/Encode [0 63 ]
+/Decode [0 1 0 1 0 1 ]
+/Size [64 ]
+>>
+<<
+/Domain[0 1 ] 
+/Range[0 1 0 1 0 1 ] 
+/FunctionType 0
+/Order 1 
+/DataSource <~b'd",I8.k4:!.lYb'd",I8.k4:!.lYb'd",I8.k4:!.iXb'Zq+Hqhb2:!.iXb'Zn*Hq_\19Zh`Vb'Zn*
+Hq_\19Zh`Vb'Zn*Hq_\19Zh`Vb'Zn*Hq_\19Zh`Vb'Qh)HVDS/9Zh]Ub'Qh)HVDS/9Zh]Ub'Qh)HVDS/
+9Zh]Ub'Qh)HVDS/9Zh]UbBlq+HVDV09ZqcVbBlq+H;)M.9Zq`UbBck*H;)M.9Zq`UbBck*H;)M.9Zq`U
+~>
+/BitsPerSample 8
+/Encode [0 63 ]
+/Decode [0 1 0 1 0 1 ]
+/Size [64 ]
+>>
+]
+/Bounds [.16765 .655064 ]
+/Encode [0 1 0 1 0 1 ]
+>>
+>>shfill grestore
+}if
+level3 not{
+gsave
+[4.4763e-06 102.406 102.406 -4.4763e-06 577.921 225.718 ]ct
+clp
+/0 /CSA get_res setcolorspace
+<<
+/NumSamples 256 
+/NumComp 3 
+/Scaling[[.00392157 0 ][.00392157 0 ][.00392157 0 ]]
+/Samples[
+<~^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^VIY#^qdb$^qdb$^qmk'
+_83t(_83t(_8=(+_SX1,_SX1,_SX1-_o'C0_o'C0_o'C1`5KU4`5KU4`5KU5`Pog8`Pog8`Pog9`l?$<
+`l?$<`l?$<`lH-?a2c6@a2c6@aN2HDaN2HDaN2HDaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZH
+aiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiV]Jb0%lLb0%lLb0%lLb0%lLb0%lL
+~>
+<~It)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rsIXZ`p
+IXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`oI=6Nl
+I=6NlI=6NlI=6NlI=6NlI=6NlI=6NlI=6KjI!g<hI!g<hI!g<hI!g<hI!g<hI!g<hI!g<hH[C*dH[C*d
+H[C*dH[C*dH[C*dH[C*dH[C*dH[:!aH?sm`H?sm`H?sm`H?sm`H?sm`H?sm`H?sj^H$O[\H$O[\H$O[\
+~>
+<~:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:esk_:JXb^
+:JXb^:JXb^:JXb^:JXb^:JOY[:/4PZ:/4PZ:/4PZ:/4PZ:/4PZ:/4PZ:/4PZ:/4PZ:/4PZ:/4PZ:/4PZ
+:/4PZ:/+GW9he>V9he>V9he>V9he>V9he>V9MA,R9MA,R9MA,R9MA,R9MA,R9MA,R9MA,R9MA,R9MA,Q
+91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN91qoN
+~>
+]
+>>
+0 0 1 0 []true true []
+/DeviceRGB
+GenStrips
+grestore
+}if
+np
+489.207 276.692 mo
+489.024 276.646 488.849 276.597 488.682 276.545 cv
+488.781 276.519 488.879 276.493 488.978 276.466 cv
+490.995 275.925 493.012 275.705 494.932 275.544 cv
+496.826 275.384 498.65 275.33 500.315 275.311 cv
+500.543 275.309 500.768 275.308 500.99 275.308 cv
+503.681 275.308 505.976 275.429 507.72 275.537 cv
+507.643 275.558 507.566 275.58 507.49 275.601 cv
+506.042 275.541 504.239 275.495 502.168 275.495 cv
+501.572 275.495 500.954 275.498 500.315 275.507 cv
+498.65 275.536 496.848 275.603 494.952 275.772 cv
+493.101 275.938 491.154 276.169 489.207 276.692 cv
+/0 /CSA get_res setcolorspace
+gsave
+clp
+[1 0 0 -1 0 1022.19 ]ct
+[20.16 0 0 2.88 488.16 744.751 ]ct
+snap_to_device
+<<
+/T 1
+/W 42 
+/H 6 
+/M[42 0 0 -6 0 6 ]
+/MD true
+/BC 8 
+/D[0 1 0 1 0 1 ]
+/DS 
+[
+<~d*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.d
+d*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.d
+d*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.d
+d*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.dd*U.d~>
+<~NK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pW
+NK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pW
+NK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pW
+NK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pWNK&pW~>
+<~>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=
+>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=
+>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=
+>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=>[1N=~>
+]
+/O 2
+>>
+%%BeginBinary: 1
+img
+%%EndBinary
+grestore
+np
+79.6378 255.721 mo
+77.5192 255.721 75.218 255.317 72.8408 254.272 cv
+71.9063 253.861 70.9869 253.423 70.0873 252.961 cv
+70.3465 252.927 70.603 252.893 70.8563 252.857 cv
+71.7918 252.716 72.6954 252.653 73.5604 252.563 cv
+74.42 252.487 75.2345 252.406 76.005 252.327 cv
+77.5382 252.149 78.876 252.114 79.9843 252.06 cv
+82.1964 251.951 83.4628 251.9 83.4628 251.9 cv
+83.4628 251.9 82.1964 251.937 79.9814 251.997 cv
+78.876 252.031 77.5235 252.051 75.9904 252.2 cv
+74.4572 252.335 72.7179 252.415 70.8318 252.665 cv
+70.4826 252.711 70.128 252.753 69.7684 252.796 cv
+67.7441 251.738 65.8237 250.559 64.0543 249.282 cv
+64.149 249.254 64.2436 249.226 64.3379 249.198 cv
+65.3801 248.88 66.3944 248.567 67.3827 248.33 cv
+67.882 248.203 68.3632 248.051 68.8478 247.963 cv
+69.3339 247.882 69.8068 247.794 70.2704 247.713 cv
+71.702 247.483 73.0592 247.414 74.3119 247.414 cv
+74.6942 247.414 75.0

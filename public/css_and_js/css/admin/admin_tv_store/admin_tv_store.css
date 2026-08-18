@@ -1,0 +1,48 @@
+
+.form_progress{
+    height: 10px;
+}
+.progress{
+    transition: width ease 1s 0s;
+}
+
+
+.title_not_exist_pic_navigation , .title_empity_photo_main_product{
+    line-height: 100px;
+}
+
+
+
+.text_value_item_setting{
+    height: 50px;
+}
+
+
+.text_video{
+    min-height: 500px;
+}
+
+
+
+
+@media (max-width: 969px) {
+
+    .form_title_info_site {
+        display: flow-root;
+        float: none;
+        width: auto;
+    }
+
+    .title_title_info_site{
+        border-left: none;
+    }
+
+}
+
+@media (min-width: 970px) {
+
+    .title_title_info_site{
+        border-bottom: none;
+    }
+
+}

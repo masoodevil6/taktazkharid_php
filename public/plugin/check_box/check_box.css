@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "B-yekan";
+    src: url("font/B-Yekan.ttf") format("truetype"),
+    url("font/B-Yekan.eot?#") format('embedded-opentype');
+}
+
+.tick_color{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
+
+.txt_checkBox{
+    font-family: B-yekan;
+}
+
+.input_check_box{
+    position: absolute;
+    margin: 0 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+
+

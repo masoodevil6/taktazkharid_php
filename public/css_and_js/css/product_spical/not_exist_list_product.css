@@ -1,0 +1,31 @@
+
+#not_exist_product_form{
+    height: 300px;
+}
+
+
+#title_not_exist_product_form{
+    line-height: 200px;
+}
+
+
+#btn_back_main_page{
+    height: 50px;
+    transition: color ease 1s 0s;
+}
+#title_btn_back_main_page{
+    transition: color ease 1s 0s;
+}
+#btn_back_main_page:hover  #title_btn_back_main_page{
+    color: #ffffff;
+    transition: color ease 1s 0s;
+}
+
+
+
+
+@media (max-width: 1200px) {
+    #main_two_par_spical{
+        width: 95%;
+    }
+}

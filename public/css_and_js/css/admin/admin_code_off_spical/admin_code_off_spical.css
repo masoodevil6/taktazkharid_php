@@ -1,0 +1,63 @@
+
+.form_radio_checked  , .value_item_setting  , .get_code_off_spical  , .title_top_form_info {
+    height: 50px;
+}
+
+
+.input_creat_code_off{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.img_delete_code_off{
+    width: 32px;
+    height: 32px;
+    background-position: -407px -557px;
+    background-size: 600px 600px;
+}
+
+
+.item_form_code_off:last-child{
+    border-bottom: none;
+}
+
+.title_not_exist_pic_navigation , .title_empity_photo_main_product{
+    line-height: 100px;
+}
+
+
+
+.form_progress{
+    height: 10px;
+}
+.progress{
+    transition: width ease 1s 0s;
+}
+
+
+
+
+
+@media (max-width: 969px) {
+
+    .form_title_info_site , .title_top_form_info {
+        display: flow-root;
+        float: none;
+        width: auto;
+    }
+
+    .title_title_info_site , .inside_title_top_form_all_info{
+        border-left: none;
+    }
+
+}
+
+@media (min-width: 970px) {
+
+    .title_title_info_site  , .inside_title_top_form_all_info{
+        border-bottom: none;
+    }
+
+}

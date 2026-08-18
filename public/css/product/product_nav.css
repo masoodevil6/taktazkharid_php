@@ -1,0 +1,15 @@
+.nav_up_product > a{
+    cursor: pointer;
+    color: #818181;
+    line-height: 50px;
+}
+
+.nav_up_product > a:hover{
+    color: #272727;
+}
+
+.nav_up::after{
+    content: "  /  ";
+    margin-left: 10px;
+    margin-right: 10px;
+}

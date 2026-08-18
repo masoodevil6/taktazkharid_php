@@ -1,0 +1,53 @@
+.selected_tab{
+    background: #70f5f5;
+}
+
+
+.img_eye_icon{
+    width: 40px;
+    height: 30px;
+
+    left: 20px;
+    top: 50%;
+    transform: translate(0 , -50%);
+
+    background-position: -253px -257px;
+    background-size: 600px 600px;
+}
+
+
+.title_item_form_position_user{
+    transition: color ease 1s 0s;
+}
+.item_form_position_user:hover .title_item_form_position_user{
+    transition: color ease 1s 0s;
+    color: #ffffff;
+}
+
+
+#title_btn_sub_position_user{
+    transition: color ease 1s 0s;
+}
+#btn_sub_position_user:hover #title_btn_sub_position_user{
+    transition: color ease 1s 0s;
+    color: #ffffff;
+}
+
+
+
+.item_user:last-child{
+    border-bottom: none;
+}
+
+
+.title_top_form_all_factor{
+    height: 50px;
+}
+
+.icon_delete_management{
+    width: 30px;
+    height: 30px;
+
+    background-position: -267px -367px;
+    background-size: 400px 400px;
+}

@@ -1,0 +1,91 @@
+493.476 263.836 cv
+492.634 263.945 492.186 264.003 492.186 264.003 cv
+493.649 263.814 mo
+493.652 263.809 493.655 263.804 493.658 263.799 cv
+493.807 263.778 493.967 263.756 494.137 263.732 cv
+494.133 263.739 494.129 263.745 494.125 263.752 cv
+493.955 263.774 493.797 263.795 493.649 263.814 cv
+level3{
+gsave
+clp
+[4.4763e-06 102.406 102.406 -4.4763e-06 577.921 225.718 ]ct
+<<
+/ShadingType 2 
+/ColorSpace /0 /CSA get_res
+/Coords [0 0 1 0 ]
+/Domain [0 1 ]
+/Extend[ true true]
+/Function
+<<
+/Domain[0 1 ] 
+/FunctionType 3
+/Functions [
+<<
+/Domain[0 1 ] 
+/Range[0 1 0 1 0 1 ] 
+/FunctionType 0
+/Order 1 
+/DataSource <~^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:t
+J5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4
+;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z^jo:tJ5O+4;8@]Z
+~>
+/BitsPerSample 8
+/Encode [0 63 ]
+/Decode [0 1 0 1 0 1 ]
+/Size [64 ]
+>>
+<<
+/Domain[0 1 ] 
+/Range[0 1 0 1 0 1 ] 
+/FunctionType 0
+/Order 1 
+/DataSource <~^jo:tJ5O+4;8@]Z_15D!J5O.5;8IcZ_1,:tIo+"3:r7]Y_LGD!Io+"3:r7]Y_gbM#Io+%4:r@cY_gbJ"
+Io!t3:W.`Y`.(S$Io""4:W.`Y`.(S%Io"%5:W7fZ`IC\&Io"%5:W@l[`d^e(Io"(6:W@l[`dU_(IS\"5
+:WIo[a*ph)ISRq4:<.fYaF6n*ISRt5:<7lZaF6n*ISS"6:<@r[aaHq+I8.h3:!%fXb'd",I8.k4:!.lY
+~>
+/BitsPerSample 8
+/Encode [0 63 ]
+/Decode [0 1 0 1 0 1 ]
+/Size [64 ]
+>>
+<<
+/Domain[0 1 ] 
+/Range[0 1 0 1 0 1 ] 
+/FunctionType 0
+/Order 1 
+/DataSource <~b'd",I8.k4:!.lYb'd",I8.k4:!.lYb'd",I8.k4:!.iXb'Zq+Hqhb2:!.iXb'Zn*Hq_\19Zh`Vb'Zn*
+Hq_\19Zh`Vb'Zn*Hq_\19Zh`Vb'Zn*Hq_\19Zh`Vb'Qh)HVDS/9Zh]Ub'Qh)HVDS/9Zh]Ub'Qh)HVDS/
+9Zh]Ub'Qh)HVDS/9Zh]UbBlq+HVDV09ZqcVbBlq+H;)M.9Zq`UbBck*H;)M.9Zq`UbBck*H;)M.9Zq`U
+~>
+/BitsPerSample 8
+/Encode [0 63 ]
+/Decode [0 1 0 1 0 1 ]
+/Size [64 ]
+>>
+]
+/Bounds [.16765 .655064 ]
+/Encode [0 1 0 1 0 1 ]
+>>
+>>shfill grestore
+}if
+level3 not{
+gsave
+[4.4763e-06 102.406 102.406 -4.4763e-06 577.921 225.718 ]ct
+clp
+/0 /CSA get_res setcolorspace
+<<
+/NumSamples 256 
+/NumComp 3 
+/Scaling[[.00392157 0 ][.00392157 0 ][.00392157 0 ]]
+/Samples[
+<~^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^V@Ou^VIY#^qdb$^qdb$^qmk'
+_83t(_83t(_8=(+_SX1,_SX1,_SX1-_o'C0_o'C0_o'C1`5KU4`5KU4`5KU5`Pog8`Pog8`Pog9`l?$<
+`l?$<`l?$<`lH-?a2c6@a2c6@aN2HDaN2HDaN2HDaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZH
+aiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiVZHaiV]Jb0%lLb0%lLb0%lLb0%lLb0%lL
+~>
+<~It)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rtIt)rsIXZ`p
+IXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`pIXZ`oI=6Nl
+I=6NlI=6NlI=6NlI=6NlI=6NlI=6NlI=6KjI!g<hI!g<hI!g<hI!g<hI!g<hI!g<hI!g<hH[C*dH[C*d
+H[C*dH[C*dH[C*dH[C*dH[C*dH[:!aH?sm`H?sm`H?sm`H?sm`H?sm`H?sm`H?sj^H$O[\H$O[\H$O[\
+~>
+<~:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:f'tb:
